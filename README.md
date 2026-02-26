@@ -5,7 +5,7 @@ An interactive, extensible, and professional chatbot flow builder built with **R
 ---
 
 ## 🔗 Live Demo
-**[Click here to view the live application](https://deluxe-cendol-5168ea.netlify.app/)** *(Note: Replace with your actual deployment link)*
+**[Click here to view the live application](https://deluxe-cendol-5168ea.netlify.app/)** 
 
 ---
 
